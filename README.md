@@ -53,7 +53,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Community Pro          | ![communitypro](https://user-images.githubusercontent.com/62628408/170606950-2eeec46f-f0c0-424d-9937-c0377fab1870.png)    | [cpro-portfolio-html](https://cpro-portfolio-html.netlify.app) | [Github](https://github.com/CommunityPro/portfolio-html) | HTML, CSS, JavaScript                                     |
 | Ahmed Zougari | ![portfolio](https://user-images.githubusercontent.com/24995094/171908358-20bf2338-1e1d-4a14-9349-28779a7c1994.png) | [ahmedzougari.netlify.app](https://ahmedzougari.netlify.app/) |  [GitHub](https://github.com/zougari47/portfolio-template) | HTML, SASS, Bootstrap, JavaScript, Vite
 
-| Pronit Ray             | ![portfolio](https://user-images.githubusercontent.com/88075552/171989226-5825a178-6d57-4c69-bdb2-492481ea9efa.png)      | [pronit-ray-portfolio.vercel.app]
+| Pronit Ray             | ![portfolio](https://user-images.githubusercontent.com/88075552/171989226-5825a178-6d57-4c69-bdb2-492481ea9efa.png)      | [pronit-ray-portfolio.vercel.app](pronit-ray-portfolio.vercel.app)
                                             | [Github](https://github.com/ptz07/PronitsPortfolio)         | HTML,CSS
 
 
