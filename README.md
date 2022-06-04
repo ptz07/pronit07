@@ -21,6 +21,7 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 
 | Author                 | Screenshot                                                                                                                | Live URL                                                    | Repo                                                        | Tech Stack                                                             | 
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------- | ----------------------------------------------------------- | ---------------------------------------------------------------------- |
+
 | Victor Eke             | ![portfolio-eke](https://user-images.githubusercontent.com/62628408/163442612-0052c73f-fc7f-4cfb-a46d-fef55ef9e4b5.png)   | [victoreke.com](https://victoreke.com)                      | [GitHub](https://github.com/evavic44/eke)                   | HTML, CSS, JavaScript                                                  | 
 | Kent C. Dodds          | ![kent-c-doddds](https://user-images.githubusercontent.com/62628408/169700953-63aaedb6-4784-4f42-a356-84d6506f8bf3.png)   | [kentcdodds.com](https://kentcdodds.com)                    | [GitHub](https://github.com/kentcdodds/kentcdodds.com)      | React, TypeScript, Remix, Prisma, Redis, Postgres, CSS                 | 
 | Brittany Chiang        | ![britanny-chiang](https://user-images.githubusercontent.com/62628408/163446015-fc50d2c1-3cee-42fb-b80a-b692ad7eef1e.png) | [brittanychiang.com](https://brittanychiang.com)            | [GitHub](https://github.com/bchiang7/v4)                    | React, Gatsby, Styled-components                                       |
@@ -51,6 +52,9 @@ Want to add a portfolio to this list? read the <a href="https://github.com/Evavi
 | Rick Waalders          | ![rick-waalders](https://user-images.githubusercontent.com/62628408/169706503-e0065c41-b88d-43bb-9175-dfd48cc6e324.png)   | [rickwaalders.com](https://www.rickwaalders.com)            | [GitHub](https://www.rickwaalders.com)                      | NextJS, React, NodeJS, GSAP, Webpack                                   |
 | Community Pro          | ![communitypro](https://user-images.githubusercontent.com/62628408/170606950-2eeec46f-f0c0-424d-9937-c0377fab1870.png)    | [cpro-portfolio-html](https://cpro-portfolio-html.netlify.app) | [Github](https://github.com/CommunityPro/portfolio-html) | HTML, CSS, JavaScript                                     |
 | Ahmed Zougari | ![portfolio](https://user-images.githubusercontent.com/24995094/171908358-20bf2338-1e1d-4a14-9349-28779a7c1994.png) | [ahmedzougari.netlify.app](https://ahmedzougari.netlify.app/) |  [GitHub](https://github.com/zougari47/portfolio-template) | HTML, SASS, Bootstrap, JavaScript, Vite
+
+| Pronit Ray             | ![portfolio](https://user-images.githubusercontent.com/88075552/171989226-5825a178-6d57-4c69-bdb2-492481ea9efa.png)      | [pronit-ray-portfolio.vercel.app]
+                                            | [Github](https://github.com/ptz07/PronitsPortfolio)         | HTML,CSS
 
 
 
